@@ -1,6 +1,11 @@
 # :wave: The Basics of GitHub 
 
-Python Doc [link](https://www.python.org)
+Python Doc[link](https://www.python.org)
+
+![alt text](hw2_ss.png)
+
+![alt text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjl1MWx2bTEydHE5aHhtMWt2ZDNmdzBsejllNnNqaDJiZzlzaWRjbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/etOX3h7ApZuDe7Fc5w/giphy.webp)
+
 
 ## 🤓 Course overview and learning outcomes 
 
