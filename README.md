@@ -1,6 +1,6 @@
 # :wave: The Basics of GitHub 
 
-Python Doc[link](https://www.python.org)
+Python Doc [link](https://www.python.org)
 
 ![alt text](hw2_ss.png)
 
